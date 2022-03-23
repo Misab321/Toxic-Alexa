@@ -1,9 +1,9 @@
 {
-    "name": "Toxic-Alexa",
-    "description": "Toxic-Alexa - Whatsapp Bot",
-    "logo": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg",
+    "name": "MISABSER",
+    "description": "MISABSER - Whatsapp Bot",
+    "logo": "https://i.imgur.com/JukR4t0.jpeg.jpg"
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/TURBOHYPER/Toxic-Alexa",
+    "repository": "https://github.com/Misab21/Toxic-Alexa",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
